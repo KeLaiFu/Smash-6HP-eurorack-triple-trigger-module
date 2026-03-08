@@ -1,0 +1,14 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0805,2,10u,C3909351
+D1,D_SOD-123,1,30V,C133636
+"D10, D11, D12, D13, D8, D9",LED_Rectangular_W3.0mm_H2.0mm,6,LED,
+"D2, D3, D4, D5, D6, D7",D_SOD-123,6,1N4148WT,
+J1,IDC-Header_2x05_P2.54mm_Vertical,1,Power,
+"J2, J3, J4, J5, J6, J7",Jack_3.5mm_QingPu_centered,6,AudioJack2_SwitchT,
+"Q1, Q2, Q3, Q4, Q5, Q6",SOT-23-3,6,MMBT3904,
+"R1, R13, R15, R17, R2, R3, R4, R5, R6",0603,9,100k,
+"R10, R12, R8",0603,3,10k,
+"R11, R19, R21, R23, R7, R9",0603,6,15k,
+"R14, R16, R18",0603,3,1k,
+"R20, R22, R24",0603,3,220R,
+"SW1, SW2, SW3",SW_2x05 header2Choc_24mm,3,SW_Push,
